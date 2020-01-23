@@ -6,6 +6,12 @@ Sparse Canonical Correlation Analysis (sCCA) is used as a bi-directional predict
 **Identification.R** projects functional connectivity matrices into an approximate tanget space on the Riemannian manifold, which allows to constrain prediction to Symmetric Positive Definite Matrices (SPD). 
 
 
+<p align="center">
+    <img src="sampleImg.jpg", width="480">
+    <br>
+</p>
+
+
 ## Related Publications
 - F. Deligianni, H. Singh, H.N. Modi, S. Jahani, M. Yucel, A. Darzi, D.R. Leff, G.Z. Yang, 'Expertise and Task Pressure in fNIRS-based brain Connectomes', https://arxiv.org/abs/2001.00114
 - F.Deligianni, J. Clayden and G.Z Yang, ['Comparison of Brain Networks Based on Predictive Models of Connectivity'](https://ieeexplore.ieee.org/document/8942010/authors#authors), IEEE BIBE, 2019. (Best Paper Award)
