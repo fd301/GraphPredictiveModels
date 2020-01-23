@@ -1,4 +1,4 @@
-# Bootstrap sCCA to identify relevant structural and functional connections that play an important role to the prediction. Prediction of functional connectivity from structural connectivity (one way prediction). Only the functional connectivity matrices are expected to be SPD. 
+# Bootstrap sCCA to identify relevant structural and functional connections that play an important role to the prediction. Prediction of functional connectivity from structural connectivity (one way prediction). Only the functional connectivity matrices are expected to be SPD.  
 
 
 
