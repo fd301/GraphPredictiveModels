@@ -2,6 +2,7 @@
 Use predictive models and ensembles to statistically estimate similarities and differences between cohorts of brain networks. 
 
 Sparse Canonical Correlation Analysis (sCCA) is used as a bi-directional predictive model of brain connectomes (typically structural brain connectomes and functional brain connectomes). The sCCA biconvex criterion implemented in [PMA R toolbox](https://cran.r-project.org/web/packages/PMA/index.html) has been modified based on randomised Lasso principle to allow identification of the most relevant connections based on ensemble/bootstrapping principles. Therefore, relevant structural and functional connections that play an important role to the prediction are identified along with a probability score. 
+
 **Identification.R** projects functional connectivity matrices into an approximate tanget space on the Riemannian manifold, which allows to constrain prediction to Symmetric Positive Definite Matrices (SPD). 
 
 
